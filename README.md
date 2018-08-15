@@ -1,4 +1,6 @@
-# jobfair
+# JobFair 2018 - LazyBrain Workshop
+### Introduction to Web Development
+<hr>
 The repository contains material from workshops on the topic of<b> Introduction to Web Development</b>.  
 
 Necessary pre-knowledge for attending a course : none  
