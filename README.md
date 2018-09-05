@@ -6,4 +6,4 @@ The repository contains material from workshops on the topic of<b> Introduction 
 Necessary pre-knowledge for attending a course : none  
 <br><br>
 lecturer Velimir Bulatovic  <br>
-email: velimir.bulatović@lazjbrain.org
+email: velimir.bulatovic@lazjbrain.org
