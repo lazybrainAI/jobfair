@@ -37,21 +37,25 @@
     
   </div>
   <script>
-        // Initialize and add the map
-        function initMap() {
-        // The location of Uluru
-        var uluru = {lat: 44.344, lng: 20.036};
-        // The map, centered at Uluru
-        var map = new google.maps.Map(
-        document.getElementById('map'), {zoom: 16, center: uluru});
-        // The marker, positioned at Uluru
-        var marker = new google.maps.Marker({position: uluru, map: map});
+    // Initialize and add the map
+    function initMap() {
+      // The location of Uluru
+      var uluru = {lat: 44.8027387, lng: 20.4757687};
+      // The map, centered at Uluru
+      var map = new google.maps.Map(
+          document.getElementById('map'), {zoom: 16, center: uluru});
+      // The marker, positioned at Uluru
+      var marker = new google.maps.Marker({position: uluru, map: map});
     }
-    </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?&callback=initMap"></script>
-    <script type="text/javascript" src="js/index.js">
-  </script>
-  <script type="text/javascript" src="js/data.js"></script>
-  <script type="text/javascript" src="js/generate.js"></script>
+        </script>
+
+        <script async defer
+        src="https://maps.googleapis.com/maps/api/js?&callback=initMap">
+        </script>
+    
+
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript" src="js/data.js"></script>
+    <script type="text/javascript" src="js/generate.js"></script>
 </body>
 </html>
